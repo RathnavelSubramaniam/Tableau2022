@@ -1,8 +1,8 @@
-# Data Structures and Algorithms Using Java
+# Business Intelligence using Tableau
 
-- [DSA Using Java](#dsa-using-java)
-  - [Announcements](#announcements)
-  - [Schedule](#schedule)
+- [BI Using Tableau](#dsa-using-java)
+  - [Syllabus](/WDJS.pdf)
+  - [Schedule](./week_1/week.md)
   - [Session - 1 Contents](#january-1)
   - [Schedule for Week 5](#week-5-schedule)
 
