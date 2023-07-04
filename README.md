@@ -1,7 +1,6 @@
 # Business Intelligence using Tableau
 
 - [BI Using Tableau](#dsa-using-java)
-  - [Syllabus](./Tableau%20Syllabus.pdf)
   - [Schedule](./week_1/week.md)
   - [Session - 1 Contents](#january-1)
   - [Schedule for Week 5](#week-5-schedule)
