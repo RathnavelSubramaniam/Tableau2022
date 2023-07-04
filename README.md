@@ -2,7 +2,6 @@
 
 - [BI Using Tableau](#dsa-using-java)
   - [Syllabus](/Tableau%20Syllabus.pdf)
-  -[Quiz](/https://docs.google.com/forms/d/1XVIPnXpBxB79tpYA3slAlK8g65kwpbkbdp2UpH7pWKg/edit)
   - [Schedule](./week_1/week.md)
   - [Session - 1 Contents](#january-1)
   - [Schedule for Week 5](#week-5-schedule)
